@@ -1,0 +1,24 @@
+
+
+header{padding: 0;
+       position: absolute;
+       right: 500px;
+
+}
+main{
+height: 700;width: 1000;
+   background-image: url(278a3c03629fad2d2e9b63170612f04.jpg);
+  background-size:1000px   700px
+  ;
+}
+
+footer{
+    padding:0   ;
+    width: 100%;
+}
+
+
+footer {background-color: rgb(241, 173, 250);
+color: rgb(39, 38, 38);   
+width: 50vw;     
+}
